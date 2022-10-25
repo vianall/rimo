@@ -1,1 +1,3 @@
-# RimoHub - Simple EVM Rest API
+# Rimo - Simple EVM Rest API
+
+[![npm version]
